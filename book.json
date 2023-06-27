@@ -1,0 +1,25 @@
+{
+  "plugins": ["autocover"],
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Xestión de proxectos InnerSource",
+      "author": "Daniel Izquierdo et al",
+       "pluginsConfig": {
+        "autocover": {
+          "font": {
+            "size": null,
+            "family": "Impact",
+            "color": "#FFF"
+          },
+          "size": {
+            "w": 1800,
+            "h": 2360
+          },
+          "background": {
+            "color": "#F90"
+          }
+        }
+      }
+    }
+  }
+}
