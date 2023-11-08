@@ -1,31 +1,31 @@
 # Introdución
 
-Corría o ano 2011 cando Marc Andressen escribiu o seu artigo, «Why Software is eating the World»[^1] [Por que o software está a engulir o mundo]. Por aquel entón, Linux Kernel xa se puxera en marcha vinte anos atrás a través dun modelo colaborativo de centos de desenvolvedores de diferentes compañías; algúns dos cales contribuían incluso no seu tempo libre. Linux pódese atopar en case calquera dispositivo, desde no IoT (polas súas siglas en inglés, Internet das Cousas) ou nos compoñentes de automóbiles, ata no hardware de supercomputación na nube, sen olvidarnos dun dos sistemas operativos móbiles máis empregados que opera no mercado.
+Corría o ano 2011 cando Marc Andressen escribiu o seu artigo «Why Software is eating the World»[^1] [Por que o software está a engulir o mundo]. Por aquel entón, Linux Kernel xa se puxera en marcha vinte anos atrás a través dun modelo colaborativo aberto a centos de desenvolvedores/as de diferentes compañías; algúns/unhas dos/as cales contribuían incluso no seu tempo libre. Hoxe, Linux pódese atopar en case calquera dispositivo, desde no IoT (polas súas siglas en inglés, Internet das Cousas) ou nos compoñentes de automóbiles, ata no hardware de supercomputación na nube, sen esquecer un dos sistemas operativos móbiles máis empregados no mercado.
 
-E Linux é só un exemplo de como un proxecto de software libre de código aberto (polas súas siglas en inglés, e en adiante, OSS) evolucionou de non ser máis que unha mera idea ata chegar a ter múltiples aplicacións en diferentes campos e sectores profesionais. Con cada nova aplicación, o sistema mellorou co transcurso do tempo, grazas á súa metodoloxía colaborativa de desenvolvemento baseado en código aberto.
+E Linux é só un exemplo de como un proxecto OSS (polas súas siglas en inglés, e en adiante, de código aberto ou software libre) evolucionou de non ser máis que unha mera idea ata chegar a ter múltiples aplicacións en diferentes sectores profesionais. Con cada nova aplicación, o sistema mellorou co transcurso do tempo, grazas á súa metodoloxía colaborativa de desenvolvemento baseada no software libre.
 
-Case seis anos despois, podemos asegurar que os proxectos de software libre e de código aberto (OSS) triunfaron no ecosistema de desenvolvemento das TI (Tecnoloxías da Información). Son moitas as empresas que adoptaron as tecnoloxías OSS e as persoas que contribuíron; tanto desde as diferentes compañías, como voluntarios.
+Case seis anos despois, podemos asegurar que os proxectos de software libre ou código aberto triunfaron no ecosistema de desenvolvemento das TI (Tecnoloxías da Información). Son moitas as empresas que adoptaron os procesos propios do software libre, e moitas as persoas que contribuíron; tanto desde as diferentes compañías, de xeito voluntario.
 
-Como conseguiu o OSS alcanzar o nivel de innovación que logrou hoxe en día? Como acadou a aceptación do mercado que observamos na actualidade?
+Como conseguiu o software libre alcanzar o nivel de innovación que logrou hoxe en día? Como acadou a aceptación do mercado que observamos na actualidade? Como atinxiu tal cantidade de contribucións tanto individuais como de organizacións?
 
-Trátase dun esforzo en equipo, tal e como cita John Wooden, exentrenador de baloncesto do UCLA Bruins, no anuncio de IBM Linux[^2]: «O xogador que fai grande ao seu equipo é máis valioso que un gran xogador. Perderte a ti mesmo no equipo polo ben deste é o verdadeiro traballo en equipo.».
+Trátase dun esforzo en equipo; no anuncio de IBM Linux[^2], John Wooden, exentrenador de baloncesto do UCLA Bruins, dicía: «O xogador que fai grande ao seu equipo é máis valioso que un gran xogador. Perderte a ti mesmo no equipo polo ben deste é o verdadeiro traballo en equipo.».
 
-Posto que as metodoloxías de colaboración empregadas nos proxectos OSS están proporcionándonos tecnoloxía innovadora de alta calidade, grazas ás comunidades de desenvolvemento comprometidas; por que non aplicar as mesmas metodoloxías na súa compañía?
+E se as metodoloxías de colaboración empregadas nos proxectos de software libre están a proporcionar tecnoloxía innovadora de alta calidade, grazas ás comunidades de desenvolvemento comprometidas; por que non aplicar as mesmas metodoloxías na súa compañía? Pois iso é InnerSource!
 
-Se aínda non se decidiu a aplicar InnerSource na súa empresa, nós recomendamos que comece lendo *Getting Started with InnerSource*[^3] [Como iniciarse en InnerSource] de Andy Oran. Despois diso, e se vostede xa decidiu comezar a ruta InnerSource, o presente libro proporcionaralle unha mellor comprensión dos escenarios do marco de traballo e xestión de habilidades de InnerSource.
+Se aínda non se decidiu a aplicar InnerSource na súa empresa, nós recomendamos que comece por ler o libro *Getting Started with InnerSource*[^3] [Como iniciarse en InnerSource] de Andy Oran. Logo diso, e se vostede decide tomar este camiño, pode confiar no presente libre para obter unha mellor comprensión dos distintos escenarios do marco de traballo e a xestión de habilidades en InnerSource.
 
 ## Principios de InnerSource
 
-O desenvolvemento de software mediante InnerSource toma os seus principios da cultura de desenvolvemento de software de código aberto. Jim Jagielski, creador de The Apache Software Foundation, enumerounos[^4] como:
+InnerSource basea os seus principios de desenvolvemento de software nos da cultura de software libre. Jim Jagielski, creador de The Apache Software Foundation, enumerounos[^4] como:
 
-1. Cultura
-2. Comunicación
-3. Transparencia
-4. Colaboración
-5. Comunidade
-6. Meritocracia
+1. Cultura.
+2. Comunicación.
+3. Transparencia.
+4. Colaboración.
+5. Comunidade.
+6. Meritocracia.
 
-Como organización disposta a adoptar a metodoloxía InnerSource, o primeiro paso é observar se os principios da organización están preto dos do ecosistema de código aberto, e traballar para minimizar os *deltas* entre eles.
+O primeiro paso de toda organización disposta a adoptar a metodoloxía InnerSource, será avaliar se os seus principios están preto dos da cultura de software libre e, se é preciso, traballar para minimizar os posibles *deltas* existentes entre eles.
 
 [^1]: https://www.wsj.com/articles/SB10001424053111903480904576512250915629460
 
