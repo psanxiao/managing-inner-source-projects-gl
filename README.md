@@ -1,6 +1,6 @@
 # Resumo
 
-<img src="managing-innersource-projects-cover_gal.jpg" title="Xestión de proxectos InnerSource">
+<img src="managing-innersource-projects-cover_gl.jpg" title="Xestión de proxectos InnerSource">
 
 Este libro busca proporcionar información sobre a xestión de distintos aspectos indispensables á hora de empregar InnerSource nas empresas.
 
