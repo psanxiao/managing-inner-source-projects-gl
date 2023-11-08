@@ -31,3 +31,17 @@ Grazas polo seu interese.
 A portada do libro foi creada por [Sebastian Spier](https://spier.hu), a partir dunha imaxe do usuario [Bru-nO](https://pixabay.com/photos/measure-unit-of-measure-meterstab-2737004/), dispoñible baixo a [licenza Pixabay](https://pixabay.com/service/license/).
 
 Todo o contido que se atopa neste repositorio ten licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Sobre a tradución
+
+Esta tradución á lingua galega foi elaborada pola [AMTEGA](https://amtega.xunta.gal) (Xunta de Galicia). Cofinanciada a través de Fondos Europeos.
+
+Distribúese baixo licenza Creative Commons Atribución - Compartir Igual 4.0 Internacional (CC BY-SA 4.0). Pode consultar as condicións desta licenza [aquí](https://creativecommons.org/licenses/by‐sa/4.0/deed.gl).
+
+**Autoras da tradución:**
+
+* Leticia Gómez Cadahía
+* María Lucía González Castro
+* Vanesa Pol Hermida
+
+<img src="fondos-publicos.png" title="Fondos Públicos">
